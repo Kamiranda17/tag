@@ -1,0 +1,33 @@
+.titulo1{
+    background-color: rgb(232, 146, 176);
+    font-size: 2rem;
+    color: rgb(154, 132, 132);
+    justify-content: center;
+    font-family: 'Bitter', serif;
+}
+.titulo2{
+font-family: 'Bitter', serif;
+}
+.titulo3{
+    font-family: 'Bitter', serif;
+}
+.contenedor{
+    display: flex;
+    justify-content: center;
+}
+button{
+    background-color: transparent;
+    color: rgb(0, 0, 0);
+    font-family: 'Bitter', serif;
+}
+button:hover{
+    background-color: black;
+}
+body{
+    background-color: #05140c;
+background-image: linear-gradient(45deg, #dba3f1 0%, #985498 100%);
+ display: flex;
+ justify-content: center;
+ flex-direction: column;
+ align-items: center;
+}
